@@ -1,0 +1,2 @@
+ipykernel
+python prac/requirements.txt
