@@ -1,0 +1,3 @@
+python prac/venv 
+python prac/requirements.txt
+python prac/assignment_solution.ipynb
